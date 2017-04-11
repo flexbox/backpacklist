@@ -1,58 +1,58 @@
 [
   {
     "place": "Amazon jungle",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "Andes Cordillera",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "Desert of Sahara",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "Great parks of the USA",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "Machu Picchu",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "Mayan temples",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "Petra",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "Pyramids of Egypt",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "Seville hotels",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "The Forbidden City",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "The great wall",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "The Java pyramid",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "The monastery of Santa Maria de la Rábida",
-    "state": "todo",
+    "status": "todo"
   },
   {
     "place": "The temples hidden in the jungle in Cambodia",
-    "state": "todo",
+    "status": "todo"
   }
 ]

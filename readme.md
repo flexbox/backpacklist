@@ -1,5 +1,7 @@
-# Help you to travel more
+# Helping you to travel more
 
-> Que voudrais-je encore faire avant de mourir ?
 
 > find the joy in your life
+
+> The bucket list
+> What else would I want to do before I die?
