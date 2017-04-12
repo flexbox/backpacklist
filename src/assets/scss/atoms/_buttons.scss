@@ -2,9 +2,10 @@ $facebook-color: #0084FF;
 
 .button-facebook {
   background-color: $facebook-color;
+  font-family: $header-font-family;
 
   svg {
     fill: white;
-    width: 30px;
+    width: 20px;
   }
 }
