@@ -5,11 +5,15 @@
   },
   {
     "place": "Bolivia",
-    "status": "todo"
+    "status": "done"
   },
   {
     "place": "Cappadocia",
     "status": "todo"
+  },
+  {
+    "place": "Chile",
+    "status": "done"
   },
   {
     "place": "China",
@@ -109,7 +113,7 @@
   },
   {
     "place": "Peru",
-    "status": "todo"
+    "status": "done"
   },
   {
     "place": "Philippines",
@@ -133,7 +137,7 @@
   },
   {
     "place": "Thailand",
-    "status": "todo"
+    "status": "done"
   },
   {
     "place": "Tibet",

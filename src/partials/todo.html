@@ -1,0 +1,10 @@
+<h3>To Do ✅</h3>
+<ul class="no-bullet">
+  {{#each to_do }}
+    {{#ifequal this.status 'todo' }}
+      <li>{{this.thing}}</li>
+    {{else}}
+      <li><del>{{this.thing}}</del></li>
+    {{/ifequal}}
+  {{/each}}
+</ul>

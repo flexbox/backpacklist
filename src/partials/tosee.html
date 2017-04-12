@@ -1,0 +1,10 @@
+<h3>To See 👀</h3>
+<ul class="no-bullet">
+  {{#each to_see }}
+    {{#ifequal this.status 'todo' }}
+      <li>{{this.place}}</li>
+    {{else}}
+      <li><del>{{this.place}}</del></li>
+    {{/ifequal}}
+  {{/each}}
+</ul>
