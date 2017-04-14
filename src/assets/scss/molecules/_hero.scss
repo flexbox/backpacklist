@@ -8,3 +8,11 @@
   border-top: 1px solid #F1EEEA;
   background-color: $white;
 }
+
+.call-to-action {
+  background-size: cover;
+  background-position: bottom center;
+  .row {
+    min-height: 650px;
+  }
+}

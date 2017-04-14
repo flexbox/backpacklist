@@ -7,5 +7,21 @@ $facebook-color: #0084FF;
   svg {
     fill: white;
     width: 20px;
+    margin-left: 10px;
+  }
+
+  &.light {
+    background-color: $white;
+    color: $facebook-color;
+      svg {
+        fill: $facebook-color;
+      }
+      &:hover {
+        background-color: $facebook-color;
+        color: $white;
+        svg {
+          fill: $white;
+        }
+      }
   }
 }
