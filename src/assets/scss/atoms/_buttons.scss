@@ -3,6 +3,9 @@ $facebook-color: #0084FF;
 .button-facebook {
   background-color: $facebook-color;
   font-family: $header-font-family;
+  &:hover {
+    background-color: scale-color($facebook-color, $lightness: 20%);
+  }
 
   svg {
     fill: white;

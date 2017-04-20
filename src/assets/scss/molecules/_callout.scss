@@ -1,5 +1,9 @@
 .callout-product {
   border-top: 3px solid $facebook-color;
+  .number {
+    font-family: $header-font-family;
+    font-size: 300%;
+  }
 }
 
 .callout-avatar {
