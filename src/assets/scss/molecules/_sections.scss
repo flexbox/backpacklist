@@ -1,0 +1,17 @@
+.section-phone {
+  position: relative;
+  width: 780px;
+  display: flex;
+  justify-content: flex-end;
+
+  .phone {
+
+  }
+  .chatbot {
+    position: absolute;
+    top: 0;
+    right: 35px;
+    top: 210px;
+    height: 650px;
+  }
+}
